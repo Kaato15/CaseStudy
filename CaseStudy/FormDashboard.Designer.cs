@@ -35,6 +35,7 @@ namespace CaseStudy
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(31)))), ((int)(((byte)(68)))));
             this.ClientSize = new System.Drawing.Size(1114, 601);
             this.Name = "FormDashboard";
             this.Text = "Dashboard";
