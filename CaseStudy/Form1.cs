@@ -26,7 +26,7 @@ namespace CaseStudy
             this.Text = string.Empty;
             this.ControlBox = false;
             this.DoubleBuffered = true;
-            this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
+            //this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
         }
 
         private struct RGBColors
